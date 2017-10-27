@@ -1,0 +1,26 @@
+.dashboard {
+  display: none;
+}
+
+.summary {
+  display: none;
+}
+
+.user-profile {
+  display: none;
+}
+
+
+.tally-marks {
+  list-style: none;
+}
+
+.mark {
+  padding: 20px;
+  background-color: red;
+  display: inline;
+  margin-right: 5px;
+}
+.button-row {
+  margin-top: 30px;
+}
